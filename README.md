@@ -2,8 +2,8 @@
 
 ### Welcome to my GitHub profile!
 
-[![Roosiu GitHub stats](https://github-readme-stats.vercel.app/api?username=roosiu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roosiu&layout=compact)
+[![Roosiu GitHub stats](https://github-readme-stats.vercel.app/api?username=roosiu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roosiu&layout=compact&theme=vue-dark)
 
 ![GitHub User's stars](https://img.shields.io/github/stars/roosiu?style=for-the-badge&logo=github)
 
